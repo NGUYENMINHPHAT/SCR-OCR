@@ -58,7 +58,7 @@ def main():
     set_custom_css()
 
     # Title
-    st.markdown("<h1 class='title'>⮮ AIOCR ⮀ Gemini 1.5 Flash ⮯</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 class='title'>⮮ AIOCR ⮀ Gemini 1.0 Flash ⮯</h1>", unsafe_allow_html=True)
 
     # Prompt label
     st.markdown('<h1 class="custom-prompt-label">Enter your prompt</h1>', unsafe_allow_html=True)
